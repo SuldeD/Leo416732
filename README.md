@@ -7,13 +7,13 @@
 
 
   
-### <h1 align="center" width="100%">I'm Munkhsuld,  a full-time learning MERN stack  🚀</h1>  
+### <h1 align="center" width="100%">I'm Munkhsuld,  a full-time learning Front-end and Design 🚀</h1>  
   
 
-- 🔭 I’m currently working on https://receta-opal.vercel.app/  
+- 🔭 I’m currently working on Eob project
   
 
-- 🌱 I’m currently learning NextJS and NestJS  
+- 🌱 I’m currently learning Front-end and Design 
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
